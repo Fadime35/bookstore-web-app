@@ -86,11 +86,6 @@ username=root
 password=yourpassword
 ```
 
-### 7. Uygulamayı çalıştırın
-
-* Tomcat server başlat
-* Tarayıcı: http://localhost:8080
-
 ## Gelecek Geliştirmeler
 
 * REST API geliştirme
