@@ -1,7 +1,7 @@
 # Bookstore Web Uygulaması
 
-## Proje Hakkında
-Kitaplık (Bookstore) Web Uygulaması, kullanıcıların kitapları görüntüleyebildiği, arama yapabildiği ve yönetebildiği **Java tabanlı dinamik bir web uygulamasıdır**.
+##  Proje Hakkında
+Bookstore Web Uygulaması, kullanıcıların kitapları görüntüleyebildiği, arama yapabildiği ve yönetebildiği **Java tabanlı dinamik bir web uygulamasıdır**.
 
 Proje, **MySQL veritabanı**, **JDBC (MySQL Connector/J)** ve **Apache Tomcat** kullanılarak geliştirilmiştir.
 
@@ -9,23 +9,23 @@ Amaç; backend geliştirme, veritabanı yönetimi ve CRUD işlemleri konusunda p
 
 ---
 
-## Özellikler
+##  Özellikler
 
 - Kullanıcı kayıt ve giriş sistemi
 - Kitap ekleme, silme, güncelleme ve listeleme (CRUD işlemleri)
 - Kategori bazlı kitap yönetimi
 - Kitap arama ve filtreleme
 - MySQL ile dinamik veri yönetimi
-- Admin paneli (varsa ekleyebilirsin)
+- Admin paneli (varsa eklenebilir)
 
 ---
 
-## Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
-- **Java (Servlet / JSP)**
-- **Apache Tomcat**
-- **MySQL**
-- **JDBC (MySQL Connector/J)**
+- Java (Servlet / JSP)
+- Apache Tomcat
+- MySQL
+- JDBC (MySQL Connector/J)
 - HTML, CSS, Bootstrap
 - Git & GitHub
 
@@ -51,40 +51,17 @@ Amaç; backend geliştirme, veritabanı yönetimi ve CRUD işlemleri konusunda p
 ### kategoriler
 - id
 - kategori_adı
-
+  
 ---
 
-## Kurulum ve Çalıştırma
+## Gelecek Geliştirmeler
 
-### 1. Projeyi klonlayın
-```bash
-git clone https://github.com/your-username/bookstore-web-app.git
-```
+- Role-based yetkilendirme (admin / user)
+- REST API geliştirme
+- Gelişmiş arama ve filtreleme sistemi
+- Modern frontend geliştirmeleri
 
-### 2. IDE ile açın
-
-* Eclipse / IntelliJ IDEA kullanabilirsiniz.
-
-### 3. MySQL veritabanını oluşturun
-
-```bash
-CREATE DATABASE bookstore;
-```
-### 4. MySQL Connector ekleyin
-
-* mysql-connector-j.jar dosyasını projeye dahil edin
-
-### 5. Tomcat Server ayarlayın
-
-* Projeyi Apache Tomcat üzerinde çalıştırın
-
-### 6. Veritabanı bağlantısı
-
-```bash
-jdbc:mysql://localhost:3306/bookstore
-username=root
-password=yourpassword
-```
+---
 
 ## Gelecek Geliştirmeler
 
