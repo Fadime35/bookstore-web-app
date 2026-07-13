@@ -87,7 +87,7 @@ Amaç; backend geliştirme, veritabanı yönetimi ve CRUD işlemleri konusunda p
 ### Anasayfa
 ![Anasayfa](screenshots/resim5.png)
 
-### Anasayfa
+### Kategoriler
 ![Kategoriler](screenshots/resim6.png)
 
 ### Kitap1
