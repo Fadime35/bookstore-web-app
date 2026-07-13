@@ -33,24 +33,33 @@ Amaç; backend geliştirme, veritabanı yönetimi ve CRUD işlemleri konusunda p
 
 ## Veritabanı Yapısı
 
-### kullanıcılar
+### Kullanıcılar
+
 - id
 - kullanıcı_adı
 - email
 - şifre
 
-### kitaplar
+### Kitaplar
+
 - id
 - kitap_adı
-- yazar
-- kategori_id
-- fiyat
+- yazar_id
+-  kategori_id
+-  fiyat
 - stok
 - açıklama
 
-### kategoriler
+### Yazarlar
+
+- id
+- yazar_adı
+
+### Kategoriler
+
 - id
 - kategori_adı
+
   
 ---
 
