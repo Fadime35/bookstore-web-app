@@ -16,7 +16,7 @@ Amaç; backend geliştirme, veritabanı yönetimi ve CRUD işlemleri konusunda p
 - Kategori bazlı kitap yönetimi
 - Kitap arama ve filtreleme
 - MySQL ile dinamik veri yönetimi
-- Admin paneli (varsa eklenebilir)
+
 
 ---
 
