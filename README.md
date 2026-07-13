@@ -72,6 +72,16 @@ Amaç; backend geliştirme, veritabanı yönetimi ve CRUD işlemleri konusunda p
 
 ## 📷 Ekran Görüntüleri
 
+![Giriş](screenshots/resim1.png)
+![Kayıt](screenshots/resim2.png)
+![Güncelle](screenshots/resim3.png)
+![Menü](screenshots/resim4.png)
+![Anasayfa](screenshots/resim5.png)
+![Kategoriler](screenshots/resim6.png)
+![Kitap1](screenshots/resim7.png)
+![Kitap2](screenshots/resim8.png)
+![Kitap3](screenshots/resim9.png)
+
 
 
 
