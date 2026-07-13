@@ -61,10 +61,4 @@ Amaç; backend geliştirme, veritabanı yönetimi ve CRUD işlemleri konusunda p
 - Gelişmiş arama ve filtreleme sistemi
 - Modern frontend geliştirmeleri
 
----
 
-## Gelecek Geliştirmeler
-
-* REST API geliştirme
-* Gelişmiş arama sistemi
-* Modern frontend (React entegrasyonu)
